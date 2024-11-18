@@ -3,7 +3,6 @@
     "containerDefinitions": [
         {
             "name": "awscicd",
-            "image": "nginx",
             "cpu": 0,
             "portMappings": [
                 {
