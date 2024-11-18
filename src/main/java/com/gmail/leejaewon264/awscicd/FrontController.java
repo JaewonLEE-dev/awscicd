@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class FrontController {
     @RequestMapping
     public String index() {
-        return "안녕하세요";
+        return "CICD";
     }
 }
